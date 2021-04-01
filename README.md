@@ -9,4 +9,3 @@
 - [PostgreSQL](https://www.postgresql.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-Teste
